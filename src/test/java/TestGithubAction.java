@@ -13,7 +13,7 @@ public class TestGithubAction {
 
     @Test
     public void test02(){
-        Assertions.assertEquals(5,5);
+        Assertions.assertEquals(5,4);
     }
 
 
