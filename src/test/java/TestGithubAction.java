@@ -22,4 +22,9 @@ public class TestGithubAction {
         Assertions.assertEquals(5,5);
     }
 
+    @Test
+    public void test04(){
+        Assertions.assertEquals(5,5);
+    }
+
 }
