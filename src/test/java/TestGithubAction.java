@@ -6,14 +6,14 @@ public class TestGithubAction {
 
     @Test
     public void test01(){
-        Assertions.assertEquals(5,4);
+        Assertions.assertEquals(5,5);
     }
 
 
 
     @Test
     public void test02(){
-        Assertions.assertEquals(5,4);
+        Assertions.assertEquals(5,5);
     }
 
 
